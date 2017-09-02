@@ -19,6 +19,8 @@ Branches are helpful when there creating experimental or alternate versions of t
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams make the structure explicit in a more abstract form than git log --graph --oneline
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
