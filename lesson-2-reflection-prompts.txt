@@ -10,10 +10,12 @@ The working directory has a whole bunch of files that may or may not be managed 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-The stagin area will allow you to commit one file at a time, and explain each commit seperately. 
+The staging area will allow you to commit one file at a time, and explain each commit seperately. 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches are helpful when there creating experimental or alternate versions of the project. 
 
 How do the diagrams help you visualize the branch structure?
 
