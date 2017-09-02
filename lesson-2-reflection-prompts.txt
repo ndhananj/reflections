@@ -24,5 +24,12 @@ Diagrams make the structure explicit in a more abstract form than git log --grap
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result is a branch that replays all the changes from the common ansestor to the branch being merged into the current branch. 
+The changes cannot conflict. The diggram is drawn as it is because the merged branch has two parents. 
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging happens more quikcly if possible, but you won't necessrily know what happened till afterwards. 
+
+Merging manually means you can make explicity what happened, but it takes more time and effort. 
